@@ -1,0 +1,15 @@
+Day 1: introduction to cyber security
+what is cyber security ?
+it refers to practices and technologies designed to protect systems, networks, and data from cyberattacks.
+ther are many types of cyber threats like
+1: malware :it means Viruses, worms, trojans they usually damage the systems or gain unauthorized access
+2: phishing: in phishing  usuallywe get the fake  email or websites using that they steal our data
+3: ransomware: it is type of harmful software that encrypts our data and demands to pay to unlock it
+4: Denial-of-service(DoS/DDos):they that aim to disrupt online services by overwhelming them with traffic, making them unavailable to legitimate users
+5: man-in-middle:attacker secretly intercepts and potentially alters communication between two parties, without either party knowing they are compromised
+6: Zero-day attack:Attacks on unknown software vulnerabilities
+
+** CIA** 
+C-confidentiality:Preventing unauthorized access to data
+I – Integrity: Ensuring data is accurate and unaltered
+A – Availability: Ensuring systems and data are accessible when needed
