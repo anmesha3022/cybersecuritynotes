@@ -1,1 +1,16 @@
+Day 2: installation of  kali linux and set up's
 
+some types of Adapter:
+1.NAT: Allows the VM to access the external network using the host's IP address.
+
+2.Bridged Adapter: Connects the VM directly to the physical network as if it's another device on the same LAN.
+
+3.Internal Network: Allows communication only between VMs on the same internal network.
+
+4.Host-only Adapter: Creates a network between the host and the VM only, without external access.
+
+5.Generic Driver: Enables custom network setups using third-party drivers or protocols.
+
+6.NAT Network: Similar to NAT but allows communication between VMs on the same network.
+
+7.Cloud Network [EXPERIMENTAL]: Provides experimental support for cloud-based networking features.
