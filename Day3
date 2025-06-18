@@ -1,0 +1,5 @@
+day3 :Basic linux commands
+
+1. ping 1.1.1.1 : it chaeck the connectivity of network to sends the particular packet
+2. clear: for clear the screen
+3. ifconfig: it use to display the confuger network
